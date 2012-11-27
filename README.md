@@ -1,7 +1,5 @@
-Fayolle Fleurs
+Bootstrap
 =================
-
-<http://fayolle-fleurs.fr/>
 
 Pour du dev
 
