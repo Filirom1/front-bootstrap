@@ -1,0 +1,23 @@
+{
+  "name": "fayolle-fleurs",
+  "version": "0.0.0",
+  "main": "lib/ubber-server",
+  "scripts": {
+    "start": "./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Filirom1/fayolle-fleurs.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.2",
+    "connect": "~2.4.6",
+    "rimraf": "~2.0.1",
+    "no-build-conf": "~0.5.2",
+    "universal-jst": "~1.0.4",
+    "spaseo": "~0.3.2",
+    "chokidar": "~0.4.0"
+  }
+}

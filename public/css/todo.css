@@ -1,0 +1,31 @@
+/* ==========================================================================
+   Author's custom styles
+   Do Mobile First design.
+   For larger screen use media queries.
+   ========================================================================== */
+
+
+
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   ========================================================================== */
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+}
+
+@media (min-width: 980px) and (max-width: 1199px) {
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-resolution: 144dpi) {
+    /* Style adjustments for high resolution devices */
+}
