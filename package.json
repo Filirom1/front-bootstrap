@@ -1,5 +1,5 @@
 {
-  "name": "fayolle-fleurs",
+  "name": "backbonist-bootstrap",
   "version": "0.0.0",
   "main": "lib/ubber-server",
   "scripts": {
@@ -7,7 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Filirom1/fayolle-fleurs.git"
   },
   "author": "",
   "license": "BSD",
